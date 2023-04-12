@@ -1,1 +1,1 @@
-# gram_schmidt_latex
+# Gram-Schmidt LaTeX
